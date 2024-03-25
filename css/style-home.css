@@ -1,0 +1,6 @@
+.navbar-custom {
+    background-color: #5BAEC1;
+}
+.navbar-nav {
+    margin-left: auto; /* Alinea el contenido del navbar hacia la derecha */
+}
